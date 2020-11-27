@@ -1,0 +1,6 @@
+no.player.id = No player ID was specified
+no.venue.specified = No venue was specified
+venue.not.affordable = Player {0} can't afford {1}
+venue.bought = {0} was bought by {1} for {2}
+venue.unknown  = Venue unknown!
+player.unknown = Player unknown!

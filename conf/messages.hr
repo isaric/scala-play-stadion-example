@@ -1,0 +1,6 @@
+no.player.id = Identifikijski broj igrača nije naveden
+no.venue.specified = Lokacija nije navedena
+venue.not.affordable = Igrač {0} nema dovoljno novaca da kupi {1}
+venue.bought = {0} je kupljeno od starne {1} za {2}
+venue.unknown  = Lokcija nepoznata
+player.unknown = Igrač nepoznat
